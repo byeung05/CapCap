@@ -164,7 +164,12 @@ def leaderboard():
 
     return render_template('leaderboard.html', leaderboard=leaderboard_data)
 
-
+@app.cli.command()
+def init_db():
+    """Initializes the database."""
+    with app.app_context():
+        db.create_all()
+    print("Database initialized!")
 # Run the app
 if __name__ == '__main__':
     db.create_all()  # Initialize the database
