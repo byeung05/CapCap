@@ -1,1 +1,1 @@
-Fimga Draft: [www.figma.com](https://www.figma.com/proto/Qjth3JkTRqzRdqfX2V6Wyp/capcap?node-id=31-441&node-type=frame&t=pvf8AveSJgQgbs7n-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=31%3A441&share=1)
+Figma Draft: [www.figma.com](https://www.figma.com/proto/Qjth3JkTRqzRdqfX2V6Wyp/capcap?node-id=31-441&node-type=frame&t=pvf8AveSJgQgbs7n-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=31%3A441&share=1)
